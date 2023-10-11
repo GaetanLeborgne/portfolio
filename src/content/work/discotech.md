@@ -1,6 +1,6 @@
 ---
 title: Disc O'tech
-publishDate: 2020-03-02 00:00:00
+publishDate: 2023-08-11 22:37:00
 img: /assets/stock-1.jpg
 img_alt: home page backOffice
 description: |
