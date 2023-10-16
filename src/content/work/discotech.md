@@ -2,18 +2,18 @@
 title: Disc O'tech
 publishDate: 2023-08-11 22:37:00
 img: /assets/stock-1.jpg
-img_alt: home page backOffice
+img_alt: home page Back-Office
 description: |
-  Développement d'un Backoffice sous Symfony 5.4 dans le cadre du Titre Professionnel Développeur Web et Web Mobile.
+  Développement d'un Back-Office sous Symfony 5.4 dans le cadre du Titre Professionnel Développeur Web et Web Mobile.
 tags:
-    - BackOffice
+    - Back-Office
     - Symfony
     - Projet de fin de formation
 ---
 
 ### Le projet
 
-> Réalisé dans le cadre de ma formation développeur web et web mobile, j'ai réalisé le BackOffice en équipe et dans un environnement Agile le site Disc-o'tech.
+> Réalisé dans le cadre de ma formation développeur web et web mobile, j'ai réalisé le Back-Office en équipe et dans un environnement Agile le site Disc-o'tech.
 
 Ce projet a pour ambition de créer une plateforme en ligne complète, pour le référençant tous genres musicaux, y compris les supports physiques tels que les vinyles, les CD, les K7 ou toute autre bizarrerie du milieu musical. Les utilisateurs bénéficieront d'une expérience immersive de découverte musicale, tout en ayant la possibilité d'explorer et à long terme d'acheter ou de vendre des disques musicaux dans un environnement sûr et sécurisé.
 

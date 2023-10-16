@@ -4,10 +4,10 @@ publishDate: 2023-09-11 23:00:00
 img: /assets/stock-2.jpg
 img_alt: page article Moeuvres
 description: |
-  Conception du cahier des charges a la création des wireframes et de la de la base de données jusqu'au développement de l'application.
+  Conception du cahier des charges a la création des wireframes et de la base de données jusqu'au développement de l'application.
 tags:
-    - BackOffice
-    - FrontOffice
+    - Back-Office
+    - Front-Office
     - Symfony
 ---
 
@@ -21,18 +21,18 @@ J'ai conçu un site web responsive sous Symfony 5.4 pour la commune de Moeuvres.
 
 Le site comprend les fonctionnalités suivantes :
 
-- Actualités locales
-- Les événements passé ou a venir
-- Horaires d'ouverture de la bibliothèque et de la mairie
-- Informations de contact
-- liste de lien des differente demarche administrative
-- Tarifs de réservation de la salle des fêtes
-- Formulaire d'inscription aux événements au format PDF
-- Envoi de formulaires via le site
+- Actualités locales.
+- Les événements passés ou à venir.
+- Horaires d'ouverture de la bibliothèque et de la mairie.
+- Informations de contact.
+- liste de lien des différentes démarches administratives.
+- Tarifs de réservation de la salle des fêtes.
+- Formulaire d'inscription aux événements au format PDF.
+- Envoi de formulaires via le site.
 
 #### Facilité de Gestion
 
-Pour assurer une gestion et une mise à jour aisées, le site dispose d'un back office. Les normes de sécurité sont strictement appliquées pour protéger les données sensibles et garantir la confidentialité des informations.
+Pour assurer une gestion et une mise à jour aisées, le site dispose d'un Back-Office. Les normes de sécurité sont strictement appliquées pour protéger les données sensibles et garantir la confidentialité des informations.
 
 #### Les technos
 
